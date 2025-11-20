@@ -1,0 +1,73 @@
+{
+  "version": 0.9,
+  "data": [
+    {
+      "recipe_id": "how-to-cook-fava-beans",
+      "context_modality": ["body", "title", "videos"],
+      "split": "test",
+      "context": [
+        {
+          "body": "2-3 pounds fresh fava beans in pod medium saucepanice + watermedium bowlTry to buy three times the weight of fava beans that you think you need - the pods weigh quite a bit, so if you buy three pounds of fava beans, you might only end up with one pound of them once they're shucked. Also, when picking - try to get firmest and greenest pods! It can be very hard to find them in good shape here in the US, so just try to pick through the bin and find the least bruised ones. You'll notice mine have lots of dark spots and that's okay. P.S. If you can't find fresh fava beans where you are, you can buy them canned and dried, too! I prefer dried version like this one.",
+          "id": 1,
+          "videos": [],
+          "title": "Ingredients + Tools"
+        },
+        {
+          "body": "Shucking fava beans is basically the same as any other bean, just a little tougher!Grab the stem end of the fava and snap it to break it. It should break off but remain attached to the pod with a fibrous cord. Pull the cord down along the length of the bean. It should open up nicely, but if it doesn't, use your thumb to open and separate the pod.Discard any beans with large brown or black spots - but a brown line at the end of the bean isn't a reason to chuck it! That's normal. :)(If you have a worm farm or a compost bin, throw the pods in there. Our worms love the pods! We grind the pods up in the food processor and then feed it to the worms.)",
+          "id": 2,
+          "videos": [],
+          "title": "Shuck the Fava Beans"
+        },
+        {
+          "body": "Bring a pot of plain water to a boil and throw the shucked beans in. Cook for 2-3 minutes. I do two minutes for the teeny fava beans, and let the larger ones go for three minutes.As they cook, combine some ice and water in a medium bowl.",
+          "id": 3,
+          "videos": [],
+          "title": "Boil the Fava Beans"
+        },
+        {
+          "body": "Remove the beans with a slotted spoon and place into the ice water bath.This will stop their cooking and keep them a beautiful green color.",
+          "id": 4,
+          "videos": [],
+          "title": "Shock the Cooked Fava Beans"
+        },
+        {
+          "body": "Some folks don't mind the outer skin on fava beans, but I do - I like to remove it. It makes the beans look and taste better in my opinion, but try it out for yourself and see! Once the beans are cooked, the pale outer skin should be easy to remove. If not, make a small slit with a pairing knife and squeeze the beans out. :)Some of the beans may split in half but that's okay. Still delicious!",
+          "id": 5,
+          "videos": [],
+          "title": "(optional) Remove the Outer Skin"
+        }
+      ],
+      "choice_list": [
+        [
+          "how-to-cook-fava-beans_3_0.jpg",
+          "how-to-cook-fava-beans_4_1.jpg",
+          "how-to-cook-fava-beans_1_0.jpg",
+          "how-to-cook-fava-beans_2_0.jpg"
+        ],
+        [
+          "how-to-cook-fava-beans_1_0.jpg",
+          "how-to-cook-fava-beans_3_0.jpg",
+          "how-to-cook-fava-beans_2_0.jpg",
+          "how-to-cook-fava-beans_4_1.jpg"
+        ],
+        [
+          "how-to-cook-fava-beans_4_1.jpg",
+          "how-to-cook-fava-beans_3_0.jpg",
+          "how-to-cook-fava-beans_1_0.jpg",
+          "how-to-cook-fava-beans_2_0.jpg"
+        ],
+        [
+          "how-to-cook-fava-beans_1_0.jpg",
+          "how-to-cook-fava-beans_2_0.jpg",
+          "how-to-cook-fava-beans_3_0.jpg",
+          "how-to-cook-fava-beans_4_1.jpg"
+        ]
+      ],
+      "answer": 3,
+      "qid": "4000-1799-0-1-2-3",
+      "question_modality": ["images"],
+      "question": ["Choose the correct order of images to make a story"],
+      "task": "visual_ordering"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "version": 0.9,
+    "data": [
+        {
+            "recipe_id": "apple-cake",
+            "context_modality": ["body", "title", "videos"],
+            "split": "test",
+            "context": [
+                {
+                    "body": "Wet ingredients:4 eggs1/2 cup orange juice1 teaspoon vanilla3/4 cup coconut oil (originally canola oil)Dry Ingredients:3 cups of flour1-1/2 cups sugar3 teaspoons baking powder1 pinch of saltTopping:6 large apples1 to 1 sugar and cinnamon mixture",
+                    "id": 1,
+                    "videos": [],
+                    "title": "Ingredients"
+                },
+                {
+                    "body": "Mix together all of the wet ingredients.",
+                    "id": 2,
+                    "videos": [],
+                    "title": "Wet Ingredients"
+                },
+                {
+                    "body": "Mix together the dry ingredients and then combine them with the wet ingredients to create the cake batter.",
+                    "id": 3,
+                    "videos": [],
+                    "title": "Dry Ingredients"
+                },
+                {
+                    "body": "Peel and slice the apples.Pour 3/4 of the batter into a large greased pan.Arrange the apples atop the batter, and sprinkle cinnamon and sugar upon them.Finally, spread the remaining cake batter over the top of the apples.",
+                    "id": 4,
+                    "videos": [],
+                    "title": "Topping"
+                },
+                {
+                    "body": "Bake the cake at 350 degrees for about 45 minutes. When you can stick a toothpick into it and it comes out dry, the cake is ready.Take it out of the oven and let it cool down before serving.",
+                    "id": 5,
+                    "videos": [],
+                    "title": "Bake"
+                }
+            ],
+            "choice_list": [
+                "apple-cake_1_0.jpg",
+                "apple-cake_2_0.jpg",
+                "super-simple-banana-smoothie-magic-bullet_5_2.jpg",
+                "apple-cake_5_0.jpg"
+            ],
+            "answer": 2,
+            "qid": "3000-14872-0-1-2-4",
+            "question_modality": ["images"],
+            "question": [
+                "apple-cake_1_0.jpg",
+                "apple-cake_2_0.jpg",
+                "super-simple-banana-smoothie-magic-bullet_5_2.jpg",
+                "apple-cake_5_0.jpg"
+            ],
+            "task": "visual_coherence"
+        }
+    ]
+}
